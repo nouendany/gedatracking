@@ -1,0 +1,6 @@
+{
+  "name": "GEDA TRACKING",
+  "description": "កម្មវិធីតាមដានអវត្តមានបុគ្គលឹក និងចុះវត្តមានតាមរយៈ QR Code - Employee Attendance Tracking with QR Code Scanner.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
